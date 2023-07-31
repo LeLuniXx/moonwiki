@@ -1,4 +1,4 @@
-# 👾 Home
+# 👾 Test
 
 Hallo, schön das du dir Zeit nimmst um dir unser Wiki anzuschauen. Ich bin Jan der Founder vom Moonrealms Server und ich arbeite zusammen mit 2 anderen Freunden seid ungefähr 5 Jahren an diesen Projekt. Mein Traum war es damals und ist es bis heute einen Ort zu schaffen an den Minecraftler zusammen Bauwerke, Basen und Städte bauen können aber auch einen Ort haben an den sie mit Freunden gerne abhängen und Spaß haben.
 
