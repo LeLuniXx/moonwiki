@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👾 Home](README.md)
+* [👾 Einleitung](README.md)
   * [Wie beginne ich auf Moon?](home/wie-beginne-ich-auf-moon.md)
 
 ## LINKS
