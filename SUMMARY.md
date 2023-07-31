@@ -20,7 +20,8 @@
 * [Globale Wegpunkte / Gebietsdörfer](unsere-features/globale-wegpunkte-gebietsdoerfer.md)
 * [Neue Strukturen/Biome](unsere-features/neue-strukturen-biome.md)
 
-***
+## Weiteres
 
-* [Impressum / Legal Notes](impressum-legal-notes.md)
-* [Bestrafungen (Bans)](bestrafungen-bans.md)
+* [Bugs reporten](weiteres/bugs-reporten.md)
+* [Bestrafungen (Bans)](weiteres/bestrafungen-bans.md)
+* [Impressum / Legal Notes](weiteres/impressum-legal-notes.md)
