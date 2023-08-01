@@ -10,6 +10,6 @@ Aber ich wollte auch Dinge anders machen als andere Server. Mir waren damals sch
 
 Aber auch die Oberwelt hat neue Strukturen bekommen die Abwechslung in die Welt bringen. An der Stelle Credits an Whimzee und Botany deren Datenpakete auf den Server verwendet werden weil ich sie super fand. Ich könnte Stundenlang über die Mechaniken schreiben (mir ist bewusst das es auch Leute gibt die sie nicht mögen. Und an der Stelle LEUTE man kann es nicht jeden recht machen.) aber dies sollte erstmal reichen. Weiteres könnt Ihr gerne aus dem Wiki ziehen das ich extra angelegt habe. Ich hoffe euch überzeugen einige Dinge und werweiß vll sehen wir uns ja dann auch auf den Server. ^^
 
-Gruß Leprimex (Founder of Moonrealms)
+Gruß von Leprimex (Founder of Moonrealms)
 
 [Broken link](broken-reference "mention")<mark style="background-color:purple;">(</mark><mark style="background-color:purple;">**Discord**</mark><mark style="background-color:purple;">)</mark>
