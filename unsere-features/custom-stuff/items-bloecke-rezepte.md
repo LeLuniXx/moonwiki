@@ -2,7 +2,7 @@
 
 ### <mark style="background-color:blue;">Custom Moonexpansion Items</mark>
 
-Vanilla erweiternde Items die gefunden oder gecraftet werden können.
+Vanilla erweiternde Items die gefunden oder gecraftet werden können!
 
 #### Mythshards:
 
@@ -15,10 +15,6 @@ Wenn du mit diesen Puder auf ein Kupferblock haust beschleunigst du das oxidiere
 #### Greifhaken:
 
 Mit diesen Tool können hohe Berge oder weite Entfernungen schneller überwunden werden.
-
-#### Instant Heilungskeks:
-
-Dieser Keks gibt dir den Instant Heilungseffekt damit deine Gesund schnell regeneriert. Gefunden werden kann der Keks oft in Strukturen und Gebietsdörfern.
 
 #### Home Locator:
 

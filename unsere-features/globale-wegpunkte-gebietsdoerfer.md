@@ -6,7 +6,7 @@ Bevor du also die Globalen Wegpunkte nutzen kannst muss du das entsprechende Geb
 
 #### Wie alles schneller und einfacher geht!
 
-<mark style="background-color:purple;">Idealer Weise entscheidest du dich am Anfang deiner Reise für ein Gebiet das dir selbst auch gefällt  und wo du dich niederlassen möchtest.</mark> Zur Auswahl stehen dir:
+<mark style="background-color:purple;">Idealer Weise entscheidest du dich am Anfang deiner Reise für ein Gebietsdorf das dir selbst auch gefällt und wo du dich niederlassen möchtest.</mark> Zur Auswahl stehen dir:
 
 ```
 Gebirgsdorf / Wüstenstadt / Hafencity / Snowvillage

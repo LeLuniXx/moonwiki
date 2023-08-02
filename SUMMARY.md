@@ -18,7 +18,7 @@
 * [Advancements](unsere-features/advancements.md)
 * [Spielzeitmedaillen](unsere-features/spielzeitmedaillen.md)
 * [Globale Wegpunkte / Gebietsdörfer](unsere-features/globale-wegpunkte-gebietsdoerfer.md)
-* [Neue Strukturen/Biome](unsere-features/neue-strukturen-biome.md)
+* [Neue Strukturen / Biome](unsere-features/neue-strukturen-biome.md)
 
 ## Weiteres
 
