@@ -4,7 +4,7 @@ description: >-
   Und natürlich gibt es dort auch Loot zu holen.
 ---
 
-# Neue Strukturen/Biome
+# Neue Strukturen / Biome
 
 ### Dome Dungeon Ruine
 
@@ -19,24 +19,6 @@ Ein Mystischer Ort mit roten hohen Bäumen und der einzige Ort wo sonst noch Pil
 ```
 Moonrealms Original Expansion
 ```
-
-### Plains Groves Biome
-
-```
-Moonrealms Original Expansion
-```
-
-### Heiße Quellen Biome
-
-```
-Moonrealms Original Expansion
-```
-
-### Pyramiden Tempel
-
-In diesen Antiken Tempel lassen sich versteckte Grabkammern finden in den oft wertvoller Loot ist. Nimm dich dort aber vor den Fallen und Mumien in acht!
-
-<figure><img src="../.gitbook/assets/2023-07-27_12.19.55.png" alt=""><figcaption><p>Expansion by Whimzee</p></figcaption></figure>
 
 ### Deko Köpfe Handelsposten
 

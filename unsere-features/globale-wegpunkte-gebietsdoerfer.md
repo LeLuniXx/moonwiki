@@ -9,7 +9,7 @@ Bevor du also die Globalen Wegpunkte nutzen kannst muss du das entsprechende Geb
 <mark style="background-color:purple;">Idealer Weise entscheidest du dich am Anfang deiner Reise für ein Gebietsdorf das dir selbst auch gefällt und wo du dich niederlassen möchtest.</mark> Zur Auswahl stehen dir:
 
 ```
-Gebirgsdorf / Wüstenstadt / Hafencity / Snowvillage
+Gebirgsdorf / Hafencity / Snowvillage / Bambusdorf
 ```
 
 Jedes Gebietsdorf hat einzigartige Trader Npcs die nur in diesen Dorf zu finden sind.

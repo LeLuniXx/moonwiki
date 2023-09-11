@@ -4,7 +4,7 @@
 
 Vanilla erweiternde Items die gefunden oder gecraftet werden können!
 
-#### Mythshards:
+#### Xp Splitter:
 
 Diese überall in Custom Strukturen zu findenden Scherben können dir beim verbrauchen Erfahrungspunkte geben.
 
