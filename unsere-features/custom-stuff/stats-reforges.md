@@ -1,16 +1,16 @@
-# Stats Reforges
+# Item Statistiken
 
-Reforges ermöglichen es deiner Ausrüstung Statistiken anzeigen zu lassen. Diese zeigen dir dann bspw. an wie viele Blöcke du bereits abgebaut hast.
+Mit einen Stats Enchantement lasse sich auf viele Rüstung und Tools Statistiken anzeigen. Diese können dir bestimmte Werte deiner Ausrüstung anzeigen um zb. zu sehen wie viele Steine du mit deiner Spitzhacke schon abgebaut hast.
 
-Je höher die Stats sind desto mehr ist das Equipment später wehrt!
+Um einen gewissen Tausch Anreiz zu schaffen haben Items mit besonders hohen Statistiken einen höheren Wert.
 
-### Reforges Anleitung
+### Anleitung
 
 * Kaufe ein Stats Enchantement bei den Händler Bennet im Hauptdorf.
 * Nimm das Item was verzaubert werden soll in die Hand.
 * Klicke wieder auf den Npc und wähle im Menü den Amboss.
 * Jetzt lege das Enchantment in das geöffnete Gui und WOHLAA
-* Dein Item wurde mit der Verzauberung verzaubert!
+* Dein Item wurde verzaubert!
 
 <div>
 

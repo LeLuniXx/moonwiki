@@ -4,21 +4,17 @@ description: >-
   Und natürlich gibt es dort auch Loot zu holen.
 ---
 
-# Neue Strukturen / Biome
+# Neue Strukturen
+
+### Oberwelt Updates
+
+Die Oberwelt wurde nicht nur mit einigen neuen Strukturen ergänzt. Auch die einzelnen Biome wurde etwas durch eine neue Generierung verschönert. So gibt es umgestürzte Bäume, Steinhaufen und für mehr mehr Abwechslung auch Moos. Trotzdem ist sie der Vanilla Umgebung treu geblieben.
 
 ### Dome Dungeon Ruine
 
 Die Dome Dungeon Ruinen sind mittel bis hohe Türme. Sie beherbergen oft viele gefährliche Mobs. Dort finden sich aber auch häufiger sehr wertvolle Items.
 
 <figure><img src="../.gitbook/assets/2023-07-27_12.32.07.png" alt=""><figcaption><p>Moonrealms Expansion</p></figcaption></figure>
-
-### Redwood Forest Biome
-
-Ein Mystischer Ort mit roten hohen Bäumen und der einzige Ort wo sonst noch Pilzkühe heimisch sind.
-
-```
-Moonrealms Original Expansion
-```
 
 ### Deko Köpfe Handelsposten
 
@@ -50,8 +46,20 @@ Verwucherte Ruinen lassen sich auf der ganzen Karte finden und sehen von Biome z
 
 </div>
 
+### Ocean Ruinen und Tempel
 
+Auch im Ocean hat sich etwas getan. Zerstörte Ruinen und große Tempelanlagen warten dort auf dich. Mit viel wertvollen Loot und eine Menge zu Entdecken werden diese Gebiete aber auch von stärkeren ertrunkenen Zombies und Wächtern beschützt. Wer hier plündern möchte sollte sich vorher gut ausrüsten.
 
-{% hint style="info" %}
-Diese Seite befindet sich aktuell in Bearbeitung!
-{% endhint %}
+<div>
+
+<figure><img src="../.gitbook/assets/2023-09-05_19.52.26.png" alt=""><figcaption><p>Ruine</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/2023-09-05_19.51.58.png" alt=""><figcaption><p>Tempel</p></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/2023-08-27_12.34.11.png" alt=""><figcaption><p>Ocean Städte</p></figcaption></figure>
+
+</div>

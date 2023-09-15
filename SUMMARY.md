@@ -14,11 +14,11 @@
 * [Custom Stuff](unsere-features/custom-stuff/README.md)
   * [Möbel/Dekorationen](unsere-features/custom-stuff/moebel-dekorationen.md)
   * [Items / Blöcke / Rezepte](unsere-features/custom-stuff/items-bloecke-rezepte.md)
-  * [Stats Reforges](unsere-features/custom-stuff/stats-reforges.md)
+  * [Item Statistiken](unsere-features/custom-stuff/stats-reforges.md)
 * [Advancements](unsere-features/advancements.md)
 * [Spielzeitmedaillen](unsere-features/spielzeitmedaillen.md)
 * [Globale Wegpunkte / Gebietsdörfer](unsere-features/globale-wegpunkte-gebietsdoerfer.md)
-* [Neue Strukturen / Biome](unsere-features/neue-strukturen-biome.md)
+* [Neue Strukturen](unsere-features/neue-strukturen-biome.md)
 
 ## Weiteres
 
