@@ -4,7 +4,9 @@ description: In diesen Beitrag erkläre ich dir wie du einen Bug (Fehler) melden
 
 # Bugs reporten
 
-Bug Report Seite: [https://github.com/LeLuniXx/moonwiki/issues](https://github.com/LeLuniXx/moonwiki/issues)
+#### Wo und wie melde ich Fehler?
+
+Du kannst Fehler auf unseren Discord im Channel "Vorschläge" melden. (Achte dort aber darauf das du den Tag "Bug" auswählst). Wir empfehlen bei Duplikationsbugs aber eher das du ein Teammitglied mit einer Direkt Message auf den Bug aufmerksam machst.
 
 #### Welche Fehler können gemeldet werden:
 
@@ -14,16 +16,10 @@ Bug Report Seite: [https://github.com/LeLuniXx/moonwiki/issues](https://github.c
 
 <mark style="background-color:purple;">Texture Bug</mark>: Eine fehlerhafte Textur wird angezeigt.
 
-<mark style="background-color:purple;">Andere Bugs</mark>: Etwas andere funktioniert nicht richtig!
+<mark style="background-color:purple;">Andere Bugs</mark>: Etwas anderes funktioniert nicht richtig!
 
 
 
-#### Wo und wie melde ich Fehler?
-
-Gefundene Bugs können auf verschiedenen Wege gemeldet werden. Es ist möglich über unsere Github Page unter Issues (Fehler) den Bug zu melden. Aber natürlich können gefundene Fehler auch auf unseren Discord Server unter den Channel "Vorschläge" gemeldet werden.
-
-Bugs über unseren Github Repo melden:
-
-Klicke dazu
-
-<figure><img src="../.gitbook/assets/Issues · LeLuniXx_moonwiki - Google Chrome 09.08.2023 19_12_07.png" alt=""><figcaption></figcaption></figure>
+{% hint style="danger" %}
+Achtung! Das wiederholte ausnutzen von Fehlern ist nicht erwünscht und wird daher auch von uns bestraft. Das melden von Bugs hingegen kann dir Belohnungen einbringen.
+{% endhint %}

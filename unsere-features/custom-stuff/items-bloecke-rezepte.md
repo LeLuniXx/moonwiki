@@ -1,53 +1,45 @@
 # Items / Blöcke / Rezepte
 
-### <mark style="background-color:blue;">Custom Moonexpansion Items</mark>
+{% hint style="info" %}
+Dieser Eintrag wird aktuell überarbeitet. Die meisten anderen Items und Blöcke werden neu eingetragen!
+{% endhint %}
 
-Vanilla erweiternde Items die gefunden oder gecraftet werden können!
+<mark style="background-color:purple;">Items/Drops die entweder in besonderen Strukturen gefunden werden müssen oder von speziellen Mobs droppen.</mark>&#x20;
 
-#### Xp Splitter:
+**Papageienfeder**: Mobdrop eines Papageien
 
-Diese überall in Custom Strukturen zu findenden Scherben können dir beim verbrauchen Erfahrungspunkte geben.
+**Wolfszahn**: Mobdrop eines Wolfes
 
-#### Oxidationspuder:
+**Muscheln**: Kann geangelt und von Ertrunkenen gedroppt werden. Wenn die Muscheln im Verarbeitungstisch verarbeitet werden bekommt man daraus Perlen.
 
-Wenn du mit diesen Puder auf ein Kupferblock haust beschleunigst du das oxidieren. Ein sehr nützliches Item das dir viel Zeit einsparen kann.
+**Birkenhartz**: Dropt beim abbauen von Birkenholz als Nebenprodukt.
 
-#### Greifhaken:
+**Witherdust**: Mobdrop eines Withers
 
-Mit diesen Tool können hohe Berge oder weite Entfernungen schneller überwunden werden.
+**Kuhmist**: Kann ebenfalls als Dünger für Pflanzen verwendet werden.
 
-#### Home Locator:
-
-Mit den Home Locator kannst du dir die Koordinaten anzeigen lassen wenn du deine Base verloren hast. Sehr nützlich besonders am Anfang.
-
-#### Levitation Potion:
-
-Die Levitation Potion gibt dir wie der Name sagt den Levitations Effekt den du wie im End durch Shulker erhältst. Damit kannst du höher gelegene Orte erreichen ohne das du dich hoch bauen musst. Der Effekt kann zudem wann du es magst mit einer Sneak Bewegung deaktiviert werden. Der Trank ist nur in Custom Pyramiden zu finden.
+**Phantomfeder**: Mobdrop eines Phantoms
 
 
 
-### <mark style="background-color:purple;">Besondere Items</mark>
+<mark style="background-color:blue;">Besondere Items und Blöcke</mark>
 
-Items/Drops die entweder in besonderen Strukturen gefunden werden müssen oder von speziellen Mobs droppen.&#x20;
+**Verarbeitungstisch**: Mit einen Verarbeitungstisch lassen sich Vanilla erweiternde Items verwerten. Diese verwerteten Items werden oft für andere Rezepte oder Items verwendet.
 
-#### Cherry Grove Schwert:
+**Schneebogen**: Der Schneebogen ist ein seltenes Tool und nicht so leicht zu bekommen. Wenn man mit ihn auf Gegner schießt bekommen diese den Eis Effekt.
 
-Das Grove Schwert kann nur in den neuen Cherry Grove Biom gefunden werden. Es kann verschiedene Enchantements und Werte haben. Außerdem hat es einzigartige Particle Effekte.
+**Korallenschwert**: Das Korallenschwert ist ein seltenes Schwert. Wenn ein Gegner mit den Schwert getroffen wird bekommt dieser den Gift Effekt.
 
-#### Shiny Items
+**Glowing Horn**: Ein Pfiff aus diesen Horn bringt Monster auch in den dunkelsten Höhlen zum leuchten.,
 
-Die Shiny Items sind besondere Items die einmalig in Strukturen gefunden werden können. Sie haben besondere Eigenschaften und Partikel Effekte.
+**Dunestriderboots**: Geben dir auf Sand einen Schnelligkeits Effekt wenn du sie benutzt. Können bei einen Relict Toolsmith erworben werden.
 
-```
-Shiny Edition: Shiny Spyglass / Shiny Turtlehelm / Shiny Shield
-```
+**Knochenspeer**: Mit diesen Speer kannst du so richtig auf die Jagd gehen.
 
-#### Dune Strider Boots
+**Trank der Effektbindung**: Hebt beim trinken schlechte Statuseffekte wieder auf.
 
-Diese Schuhe können in Custom Pyramiden gefunden werden und geben dir auf Sand einen Schnelligkeits Effekt (II).
+
 
 ### Neue Vanilla Rezepte
-
-<figure><img src="../../.gitbook/assets/Elytra.png" alt=""><figcaption><p>Elytra Rezept</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Gras.png" alt=""><figcaption><p>Grasblock Rezept</p></figcaption></figure>

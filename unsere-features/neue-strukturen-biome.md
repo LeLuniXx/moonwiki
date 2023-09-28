@@ -1,32 +1,22 @@
 ---
 description: >-
-  Auf der Karte gibt es einige besondere neue Strukturen und Biome zu erkunden.
-  Und natürlich gibt es dort auch Loot zu holen.
+  Auf der Karte gibt es einige besondere neue Strukturen  zu erkunden. Und
+  natürlich gibt es dort auch Loot zu holen.
 ---
 
 # Neue Strukturen
 
 ### Oberwelt Updates
 
-Die Oberwelt wurde nicht nur mit einigen neuen Strukturen ergänzt. Auch die einzelnen Biome wurde etwas durch eine neue Generierung verschönert. So gibt es umgestürzte Bäume, Steinhaufen und für mehr mehr Abwechslung auch Moos. Trotzdem ist sie der Vanilla Umgebung treu geblieben.
+Die Oberwelt wurde nicht nur mit einigen neuen Strukturen ergänzt. Auch die einzelnen Biome wurde etwas durch eine neue Generierung verschönert. So gibt es umgestürzte Bäume, Steinhaufen und für mehr Abwechslung auch Moos. Trotzdem ist sie der Vanilla Umgebung treu geblieben.
 
 ### Dome Dungeon Ruine
 
 Die Dome Dungeon Ruinen sind mittel bis hohe Türme. Sie beherbergen oft viele gefährliche Mobs. Dort finden sich aber auch häufiger sehr wertvolle Items.
 
-<figure><img src="../.gitbook/assets/2023-07-27_12.32.07.png" alt=""><figcaption><p>Moonrealms Expansion</p></figcaption></figure>
-
 ### Deko Köpfe Handelsposten
 
 Bei diesen Außenposten der sich auf verschiedene Orte der Karte befindet, können Dekorationsköpfe gekauft werden. Diese Köpfe sind von Ort zu Ort unterschiedlich.
-
-```
-Moonrealms Original Expansion
-```
-
-### Cherry Blossom Relikt
-
-Bei dieser Antiken Stätte kannst du das Antike Cherry Grove Schwert finden.
 
 ```
 Moonrealms Original Expansion
