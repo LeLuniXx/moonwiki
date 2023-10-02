@@ -10,7 +10,9 @@ Dieser Eintrag wird aktuell überarbeitet. Die meisten anderen Items und Blöcke
 
 **Wolfszahn**: Mobdrop eines Wolfes
 
-**Muscheln**: Kann geangelt und von Ertrunkenen gedroppt werden. Wenn die Muscheln im Verarbeitungstisch verarbeitet werden bekommt man daraus Perlen.
+**Muscheln**: Kann geangelt und von Ertrunkenen gedroppt werden. Wenn die Muscheln im Verarbeitungstisch verarbeitet werden bekommt man daraus Perlen.&#x20;
+
+* Perlen dienen als Trading Währung für Npcs
 
 **Birkenhartz**: Dropt beim abbauen von Birkenholz als Nebenprodukt.
 
@@ -37,6 +39,8 @@ Dieser Eintrag wird aktuell überarbeitet. Die meisten anderen Items und Blöcke
 **Knochenspeer**: Mit diesen Speer kannst du so richtig auf die Jagd gehen.
 
 **Trank der Effektbindung**: Hebt beim trinken schlechte Statuseffekte wieder auf.
+
+**Sniffer Rucksack**: Ein Rucksack der aus Snifferpflanzen hergestellt werden kann.
 
 
 

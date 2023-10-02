@@ -31,6 +31,7 @@ Um dir einige hilfreiche Informationen wie die Koordinaten und den aktuellen Chu
 * Mit einer minimalen Wahrscheinlichkeit können lootbare Schweine mit einen Fass auf der Karte spawnen diese droppen dann normale bis wertvolle Items.
 * Wenn du stirbst werden deine Items und deine Xp in einen Deathbarrel gelagert. So hast du eine Chance deine Items wieder zu erlangen. Aber Achtung! andere Spieler können dein Barrel ebenfalls öffnen.
 * Jede Vanilla und nicht Vanilla Struktur ist pro Spieler lootbar so das jeder Spieler die Chance hat selber jede Struktur zu looten.
+* Verbessertes Inventar Management (unrealeased).
 
 <div>
 

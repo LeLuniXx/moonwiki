@@ -1,5 +1,9 @@
 # 👾 Einleitung
 
+{% hint style="info" %}
+Unser Server befindet sich zurzeit in keiner öffentlichen Phase. Dieses Wiki dient alleine als Vorschau unseres Server und soll ein Anreiz für Mitspieler sein sich diesen Server bald anschauen zu dürfen. Wir sind dankbar für jeden Verbesserungs Vorschlag (Vorschläge können über unseren Discord eingereicht werden).   &#x20;
+{% endhint %}
+
 Hallo, schön das du dir Zeit nimmst um dir unser Wiki anzuschauen. Ich bin Jan der Founder vom Moonrealms Server und ich arbeite zusammen mit 2 anderen Freunden seid ungefähr 5 Jahren an diesen Projekt. Mein Traum war es damals und ist es bis heute einen Ort zu schaffen an den Minecraftler zusammen Bauwerke, Basen und Städte bauen können aber auch einen Ort haben an den sie mit Freunden gerne abhängen und Spaß haben.
 
 Aber ich wollte auch Dinge anders machen als andere Server. Mir waren damals schon Home und Teleport Systeme ein Dorn im Auge. Ich fand sie machen uns Faul und machen vieles viel zu einfach. Das entfernen dieser Dinge brachte mir aber keine Ruhe also beschloss ich sie zu ersetzen. Das Teleportieren wurde zu Wegpunkte die man freischalten muss und die an Orten fest sind um etwas erleichertung zu schaffen. Die Farmwelten die ich bis heute nicht verstehe wurden komplett entfernt sodass Spieler in der Offenen Welt (by the way so nh Welt ist echt groß) bauen aber auch farmen können. Aber es geht weiter:

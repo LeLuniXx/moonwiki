@@ -1,5 +1,5 @@
 ---
-description: Großen Dank an Hero fürs coden ^^
+description: Großen Dank an Hero fürs seine Arbeit (^^)
 ---
 
 # Chunk Claiming

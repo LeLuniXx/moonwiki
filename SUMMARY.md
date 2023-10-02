@@ -5,7 +5,7 @@
 
 ## LINKS
 
-* [🤖 Discord](https://discord.gg/cDCcphbX98)
+* [🤖 Discord Link](https://discord.gg/cDCcphbX98)
 
 ## 📦 UNSERE FEATURES
 

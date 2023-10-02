@@ -1,8 +1,8 @@
 # Item Statistiken
 
-Mit einen Stats Enchantement lasse sich auf viele Rüstung und Tools Statistiken anzeigen. Diese können dir bestimmte Werte deiner Ausrüstung anzeigen um zb. zu sehen wie viele Steine du mit deiner Spitzhacke schon abgebaut hast.
+Mit einen Stats Enchantement lasse sich auf viele Rüstung und Tools Statistiken anzeigen. Diese können dir bestimmte Werte deiner Ausrüstung anzeigen um zb. zu sehen wie viele Steine du mit deiner Spitzhacke abgebaut hast.
 
-Um einen gewissen Tausch Anreiz zu schaffen haben Items mit besonders hohen Statistiken einen höheren Wert.
+Um einen gewissen tausch Anreiz zu schaffen haben Items mit besonders hohen Statistiken einen höheren Wert.
 
 ### Anleitung
 
