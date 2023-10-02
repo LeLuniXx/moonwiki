@@ -6,7 +6,7 @@ Geschützt sind unsere Werke demnach nach den Deutsch/Europäischen Urheberrecht
 
 Wir möchten diesbezüglich also betonen das alle von uns entwickelten Models/Textures/Pixelarts und unsere Plugin Framework Eigentum von `Rivalmoon studios` sind und somit gegen jeden Verstoß vorgehen werden.
 
-{% hint style="info" %}
+{% hint style="danger" %}
 <mark style="background-color:red;">Warnung</mark> an Weltendonwnloader und Resourcepack Decrypter! Das klauen von Welten/Resourcepacks durch Mods wird durch unser Protection System vermieden. Jedoch wird Ihre Festplatte falls sie es erfolgreich schaffen möglicherweise beschädigt. Dies ist also eine Warnung! Sie beschädigen Ihren Computer!
 {% endhint %}
 

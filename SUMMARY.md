@@ -17,7 +17,7 @@
   * [Item Statistiken](unsere-features/custom-stuff/stats-reforges.md)
 * [Advancements](unsere-features/advancements.md)
 * [Spielzeitmedaillen](unsere-features/spielzeitmedaillen.md)
-* [Globale Wegpunkte / Gebietsdörfer](unsere-features/globale-wegpunkte-gebietsdoerfer.md)
+* [Globale Wegpunkte / Heimatdörfer](unsere-features/globale-wegpunkte-gebietsdoerfer.md)
 * [Neue Strukturen](unsere-features/neue-strukturen-biome.md)
 
 ## Weiteres

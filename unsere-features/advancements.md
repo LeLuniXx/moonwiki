@@ -1,9 +1,9 @@
 # Advancements
 
-Es gibt die Möglichkeit durch einige Advancements an Belohnungen zu kommen. Advancements werden auf die unterschiedlichste Weise ausgelöst. Mal können Interaktionen mit Npcs oder das besuchen von Orten auf der Karte dazu führen das man ein Advancement abgeschlossen hat.
+Durch das ansprechen von Npcs und erkunden von neuen Orten steigerst du dein Erfahrung. Du lernst neues kennen und kannst dadurch schneller verstehen wo du welche Ressourcen herbekommen kannst.
 
-Eine Liste und der Progress Info findet man direkt im Hauptmenü mit /menü.
+Advancements freizuschalten ist aber auch ein Weg um an Wertvollen Geschenken zu gelangen die du erhältst sobald du etwas neues entdeckt hast. So können Globale Wegpunkte in Heimatdörfern erst benutzt werden wenn du das Dorf dazu erst gefunden hast.
 
-Um zb die Globalen Wegsteine zu weit entfernten Orten nutzen zu können, müssen bestimmte Orte erst gefunden werden.
+Im Laufe des Spiels gelangst du so an Belohnungen und baust gleichzeitig ein Reisesystem aus.
 
 <figure><img src="../.gitbook/assets/2023-05-26_21.55.59.png" alt=""><figcaption><p>Beispiel für ein gefundenes Advancement</p></figcaption></figure>
