@@ -25,3 +25,4 @@
 * [Bugs reporten](weiteres/bugs-reporten.md)
 * [Bestrafungen (Bans)](weiteres/bestrafungen-bans.md)
 * [Impressum / Legal Notes](weiteres/impressum-legal-notes.md)
+* [📄 Regelwerk](weiteres/regelwerk.md)

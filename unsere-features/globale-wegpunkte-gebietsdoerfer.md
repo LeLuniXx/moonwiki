@@ -1,8 +1,8 @@
 # Globale Wegpunkte / Heimatdörfer
 
-Um schneller durch die Welt reisen zu können hat jedes Heimatdorf eine Wegpunkt Station von den aus andere Heimatdörfer besucht werden können. Am Anfang sind andere Orte aber gelockt so das sie erst zu Fuß erreicht werden müssen um dort ein Wegpunkt hin freischalten zu können.&#x20;
+Am Anfang deines Abenteuers kannst du aus verschiedenen Heimatdörfern deine Heimat wählen wo du dich niederlassen kannst und dir alleine oder mit Freunden eine Basis aufbauen kannst. Jedes Heimatdorf hat einen eigenen Baustiel und unterschiedliche Shops die du im Dorf finden kannst.
 
-Bevor du also die Globalen Wegpunkte nutzen kannst muss du das entsprechende Orte erstmal finden und an der Wegpunkt Station den Wegpunkt für das Gebiet freischalten. Hierfür musst du Materialien Sammeln die von dir im Wegpunkte Menü gefordert werden.
+Um schneller durch die Welt reisen zu können hat jedes Heimatdorf eine Wegpunkt Station von den aus andere Heimatdörfer besucht werden können. Bevor du allerdings andere Heimatdörfer besuchen kannst musst du Materialien zur freischaltung des Wegpunktes sammeln und diese bei der Wegpunkt Station abgeben.
 
 #### Unterschiede zwischen Heimatdörfern:
 
@@ -12,3 +12,11 @@ Bevor du also die Globalen Wegpunkte nutzen kannst muss du das entsprechende Ort
 * Elytra Trimtrader (hat in jeden Dorf andere Trims zum traden) (unreleased)
 * Jedes Dorf hat eine andere Währung (unreleased)
 * Relictsmithing Trader (unterschiedliche Relict Items zum traden)
+
+**Kann man auch sein eigenes Dorf gründen?**
+
+Zum Anfang empfehlen wir es jeden Spieler zumindest in der nähe eines Heimatdorfes zu bauen. Zumal du im Tutorial eine Heimat zumindest zum Anfang hin gewählt haben musst.&#x20;
+
+**Dürfen in Heimatdörfern Farmen gebaut werden?**
+
+Hierzu ist es Lohnenswert sich vorher die Regeln durchzulesen die wir für unseren Server festgelegt haben. Um es aber kurz zu fassen. <mark style="background-color:purple;">Das bauen von automatischen/halbauto. Redstone Farmen (ausgenommen sind: Eisenfarmen) ist auf Grundstücken nicht gewünscht</mark>.
