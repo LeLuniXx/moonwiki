@@ -1,8 +1,8 @@
-# Globale Wegpunkte / Heimatdörfer
+# Heimatdörfer/Luftreisen
 
 Am Anfang deines Abenteuers kannst du aus verschiedenen Heimatdörfern deine Heimat wählen wo du dich niederlassen kannst und dir alleine oder mit Freunden eine Basis aufbauen kannst. Jedes Heimatdorf hat einen eigenen Baustiel und unterschiedliche Shops die du im Dorf finden kannst.
 
-Um schneller durch die Welt reisen zu können hat jedes Heimatdorf eine Wegpunkt Station von den aus andere Heimatdörfer besucht werden können. Bevor du allerdings andere Heimatdörfer besuchen kannst musst du Materialien zur freischaltung des Wegpunktes sammeln und diese bei der Wegpunkt Station abgeben.
+Um schneller durch die Welt reisen zu können hat jedes Heimatdorf eine Luftschiff Reisepunkt von den aus andere Heimatdörfer besucht werden können. Bevor du allerdings andere Heimatdörfer besuchen kannst musst du Materialien zur freischaltung eines Reiseweges sammeln und diese bei der Luftreisestation abgeben.
 
 #### Unterschiede zwischen Heimatdörfern:
 
@@ -19,4 +19,4 @@ Zum Anfang empfehlen wir es jeden Spieler zumindest in der nähe eines Heimatdor
 
 **Dürfen in Heimatdörfern Farmen gebaut werden?**
 
-Hierzu ist es Lohnenswert sich vorher die Regeln durchzulesen die wir für unseren Server festgelegt haben. Um es aber kurz zu fassen. <mark style="background-color:purple;">Das bauen von automatischen/halbauto. Redstone Farmen (ausgenommen sind: Eisenfarmen) ist auf Grundstücken nicht gewünscht</mark>.
+Hierzu ist es Lohnenswert sich vorher die Regeln durchzulesen die wir für unseren Server festgelegt haben. Um es aber kurz zu fassen. <mark style="background-color:purple;">Das bauen von automatischen/halbauto. Redstone Farmen (ausgenommen sind: Eisenfarmen) ist auf Grundstücken direkt in Heimatdörfern nicht gewünscht</mark>.

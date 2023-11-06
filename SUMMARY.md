@@ -7,18 +7,19 @@
 
 * [🤖 Discord Link](https://discord.gg/cDCcphbX98)
 
-## 📦 UNSERE FEATURES
+## 📦 Was uns aus macht
 
-* [Mechaniken](unsere-features/mechaniken.md)
-* [Chunk Claiming](unsere-features/chunk-claiming.md)
-* [Custom Stuff](unsere-features/custom-stuff/README.md)
-  * [Möbel/Dekorationen](unsere-features/custom-stuff/moebel-dekorationen.md)
-  * [Items / Blöcke / Rezepte](unsere-features/custom-stuff/items-bloecke-rezepte.md)
-  * [Item Statistiken](unsere-features/custom-stuff/stats-reforges.md)
-* [Advancements](unsere-features/advancements.md)
-* [Spielzeitmedaillen](unsere-features/spielzeitmedaillen.md)
-* [Globale Wegpunkte / Heimatdörfer](unsere-features/globale-wegpunkte-gebietsdoerfer.md)
-* [Neue Strukturen](unsere-features/neue-strukturen-biome.md)
+* [Mechaniken](was-uns-aus-macht/mechaniken.md)
+* [Chunk Claiming](was-uns-aus-macht/chunk-claiming.md)
+* [Custom Stuff](was-uns-aus-macht/custom-stuff/README.md)
+  * [Möbel/Dekorationen](was-uns-aus-macht/custom-stuff/moebel-dekorationen.md)
+  * [Items / Blöcke / Rezepte](was-uns-aus-macht/custom-stuff/items-bloecke-rezepte.md)
+  * [Item Statistiken](was-uns-aus-macht/custom-stuff/stats-reforges.md)
+* [Advancements](was-uns-aus-macht/advancements.md)
+* [Spielzeitmedaillen](was-uns-aus-macht/spielzeitmedaillen.md)
+* [Heimatdörfer/Luftreisen](was-uns-aus-macht/globale-wegpunkte-gebietsdoerfer.md)
+* [Neue Strukturen](was-uns-aus-macht/neue-strukturen-biome.md)
+* [Abenteuerzentrale](was-uns-aus-macht/abenteuerzentrale.md)
 
 ## Weiteres
 

@@ -6,7 +6,7 @@ Unsere Regeln sind für eine gute Survival Gemeinschaft äußerst wichtig. Wie a
 
 * Das Scammen (stehlen) von Spielern und das Griefen von Bauwerken die dir selber nicht gehören ist auf unseren Server unerwünscht.
 * Das nutzen von Cheat Resourcepacks oder ähnl. führt zu einen permanent Bann.
-* Kritik/Wünsche ist jederzeit willkommen, aber bitte nicht im Mc Chat. Wenn du Verbesserungsvorschläge hast kannst du sie uns im Discord unter "vorschläge" senden.
+* Kritik/Wünsche sind jederzeit willkommen, aber bitte nicht im Mc Chat. Wenn du Verbesserungsvorschläge hast kannst du sie uns im Discord unter "Vorschläge" senden.
 
 **Chatverhalten:**
 
