@@ -28,6 +28,6 @@ Um dir einige hilfreiche Informationen wie die Koordinaten und den aktuellen Chu
 
 ### Gameplay Mechaniken
 
-* Wenn du stirbst werden deine Items und ein teil deiner Xp in einen Fass gelagert. So hast du eine Chance deine Items wieder zu erlangen. Aber Achtung! andere Spieler können dein Barrel ebenfalls öffnen.
+* Wenn du stirbst behältst du Ausrüstungsgegenstände und Tools sowie einige ausgewählte Items. (keine Exp, keine Blöcke, keine Mineralien)
 * Jede Vanilla und nicht Vanilla Struktur ist pro Spieler lootbar so das jeder Spieler die Chance hat selber jede Struktur zu looten.
 * Verbessertes Inventar Management in Kombination mit Sniffer Rucksäcken (unrealeased).
