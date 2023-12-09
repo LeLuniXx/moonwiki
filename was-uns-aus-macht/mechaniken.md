@@ -7,7 +7,6 @@ description: Vanilla Orientierte Verbesserungen und Features.
 ### Kleinere Mechaniken
 
 * Kaputter Amboss mit Eisen Blöcken reparieren.
-* Shulkerboxen öffnen ohne sie zu platzieren (sneak+click).
 * Rüstungsständer wie auf der Bedrock Version bearbeiten und posieren. (Ziele dabei mit den Cross auf die Druckplatte)
 * Ui/Tooltips zb. wird dir angezeigt welches Essen dir wie viele Hungerkeulen einbringt.
 * Ui/Tooltips: Verzauberungs Bücher zeigen dir an welche Verzauberung für welches Tool/Rüstung sie ist.
@@ -25,6 +24,10 @@ Um dir einige hilfreiche Informationen wie die Koordinaten und den aktuellen Chu
 <figure><img src="../.gitbook/assets/2023-07-31_20.43.32.png" alt=""><figcaption><p>Beispiel zur Hudleiste</p></figcaption></figure>
 
 </div>
+
+### Shulkerbox Vorschau (Modport)
+
+Beim hovern über Shulkerbox im Inventar werden dir Items angezeigt die sich in der Shulkerbox befinden.
 
 ### Gameplay Mechaniken
 
