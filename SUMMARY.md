@@ -19,7 +19,6 @@
 * [Spielzeitmedaillen](was-uns-aus-macht/spielzeitmedaillen.md)
 * [Heimatdörfer/Luftreisen](was-uns-aus-macht/globale-wegpunkte-gebietsdoerfer.md)
 * [Neue Strukturen](was-uns-aus-macht/neue-strukturen-biome.md)
-* [Abenteuerzentrale](was-uns-aus-macht/abenteuerzentrale.md)
 
 ## Weiteres
 

@@ -27,10 +27,10 @@ Um dir einige hilfreiche Informationen wie die Koordinaten und den aktuellen Chu
 
 ### Shulkerbox Vorschau (Modport)
 
-Beim hovern über Shulkerbox im Inventar werden dir Items angezeigt die sich in der Shulkerbox befinden.
+Beim hovern über eine Shulkerbox im Inventar werden dir Items angezeigt die sich in der Shulkerbox befinden.
 
 ### Gameplay Mechaniken
 
 * Wenn du stirbst behältst du Ausrüstungsgegenstände und Tools sowie einige ausgewählte Items. (keine Exp, keine Blöcke, keine Mineralien)
 * Jede Vanilla und nicht Vanilla Struktur ist pro Spieler lootbar so das jeder Spieler die Chance hat selber jede Struktur zu looten.
-* Verbessertes Inventar Management in Kombination mit Sniffer Rucksäcken (unrealeased).
+* Verbessertes Inventar Management in Kombination mit Sniffer Rucksäcken (unrealeased)
