@@ -1,6 +1,6 @@
 # Heimatdörfer/Luftreisen
 
-Am Anfang deines Abenteuers kannst du aus verschiedenen Heimatdörfern deine Heimat wählen wo du dich niederlassen kannst und dir alleine oder mit Freunden eine Basis aufbauen kannst. Jedes Heimatdorf hat einen eigenen Baustiel und unterschiedliche Shops die du im Dorf finden kannst.
+&#x20;Nach dem du im Tutorial dein Heimatdorf gewählt hast kannst du dir ein&#x20;
 
 Um schneller durch die Welt reisen zu können hat jedes Heimatdorf eine Luftschiff Reisepunkt von den aus andere Heimatdörfer besucht werden können. Bevor du allerdings andere Heimatdörfer besuchen kannst musst du Materialien zur freischaltung eines Reiseweges sammeln und diese bei der Luftreisestation abgeben.
 
@@ -13,9 +13,7 @@ Um schneller durch die Welt reisen zu können hat jedes Heimatdorf eine Luftschi
 * Jedes Dorf hat eine andere Währung (unreleased)
 * Relictsmithing Trader (unterschiedliche Relict Items zum traden)
 
-**Kann man auch sein eigenes Dorf gründen?**
-
-Zum Anfang empfehlen wir es jeden Spieler zumindest in der nähe eines Heimatdorfes zu bauen. Zumal du im Tutorial eine Heimat zumindest zum Anfang hin gewählt haben musst.&#x20;
+&#x20;
 
 **Dürfen in Heimatdörfern Farmen gebaut werden?**
 

@@ -15,7 +15,7 @@
   * [Möbel/Dekorationen](was-uns-aus-macht/custom-stuff/moebel-dekorationen.md)
   * [Items / Blöcke / Rezepte](was-uns-aus-macht/custom-stuff/items-bloecke-rezepte.md)
   * [Item Statistiken](was-uns-aus-macht/custom-stuff/stats-reforges.md)
-* [Advancements](was-uns-aus-macht/advancements.md)
+* [Advancements/Quests](was-uns-aus-macht/advancements.md)
 * [Spielzeitmedaillen](was-uns-aus-macht/spielzeitmedaillen.md)
 * [Heimatdörfer/Luftreisen](was-uns-aus-macht/globale-wegpunkte-gebietsdoerfer.md)
 * [Neue Strukturen](was-uns-aus-macht/neue-strukturen-biome.md)

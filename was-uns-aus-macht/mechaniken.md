@@ -29,6 +29,10 @@ Um dir einige hilfreiche Informationen wie die Koordinaten und den aktuellen Chu
 
 Beim hovern über eine Shulkerbox im Inventar werden dir Items angezeigt die sich in der Shulkerbox befinden.
 
+
+
+<figure><img src="../.gitbook/assets/2023-12-25_14.29.36.png" alt="" width="563"><figcaption></figcaption></figure>
+
 ### Gameplay Mechaniken
 
 * Wenn du stirbst behältst du Ausrüstungsgegenstände und Tools sowie einige ausgewählte Items. (keine Exp, keine Blöcke, keine Mineralien)
