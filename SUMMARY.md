@@ -1,11 +1,7 @@
 # Table of contents
 
 * [👾 Einleitung](README.md)
-  * [Wie beginne ich auf Moon?](home/wie-beginne-ich-auf-moon.md)
-
-## LINKS
-
-* [🤖 Discord Link](https://discord.gg/cDCcphbX98)
+  * [🤖 Discord Link](https://discord.gg/cDCcphbX98)
 
 ## 📦 Was uns aus macht
 
@@ -18,7 +14,6 @@
 * [Advancements/Quests](was-uns-aus-macht/advancements.md)
 * [Spielzeitmedaillen](was-uns-aus-macht/spielzeitmedaillen.md)
 * [Heimatdörfer/Luftreisen](was-uns-aus-macht/globale-wegpunkte-gebietsdoerfer.md)
-* [Neue Strukturen](was-uns-aus-macht/neue-strukturen-biome.md)
 
 ## Weiteres
 
