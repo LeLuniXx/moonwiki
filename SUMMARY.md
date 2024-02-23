@@ -14,7 +14,7 @@
 
 ## Weiteres
 
+* [📄 Regelwerk](weiteres/regelwerk.md)
 * [Bugs reporten](weiteres/bugs-reporten.md)
 * [Bestrafungen (Bans)](weiteres/bestrafungen-bans.md)
-* [📄 Regelwerk](weiteres/regelwerk.md)
 * [Impressum / Legal Notes](weiteres/impressum-legal-notes.md)

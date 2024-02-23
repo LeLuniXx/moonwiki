@@ -11,10 +11,11 @@ Unsere Regeln sind für eine gute Survival Gemeinschaft äußerst wichtig. Wie a
 **Chatverhalten:**
 
 * Ein freundlicher und respektvoller Umgang ist jederzeit Pflicht!
-* Bitte sende keine Links in den Chat hinein.
+* Bitte sende **keine** Links in den Chat hinein.
+* Das spamming im Chat (auch mit Emojis) ist unerwünscht.
 
 **Alles wichtige rund ums bauen/farmen:**
 
-* Jede Art von automatischen/halbauto. und Afk Farmen sind nicht gestattet (Ausgenommen sind Ofenanlagen, Eisenfarmen, Guardianfarm).
+* Das bauen von Automatischen und Halbautomatischen Farmen die mit Redstone und oder einer übermäßigen Anzahl an Hoppern/Minecarts ist unerwünscht. (Ausgenommen sind passive Villager Farmen, Angelfarmen)
 * Halte deine Umwelt schön und replante Setzlinge wenn du Bäume fällst.
-* Achte auf genug Platz zwischen deinen und anderen Bauwerken so das jeder die Chance hat etwas zu erweitern.
+* Achte auf genug Platz zwischen deinen und anderen Bauwerken so das jeder die Chance hat sein Grundstück zu erweitern.

@@ -1,12 +1,12 @@
 ---
-description: In diesen Beitrag erkläre ich dir wie du einen Bug (Fehler) melden kannst.
+description: In diesen Beitrag erkläre wir dir wie du einen Bug (Fehler) melden kannst.
 ---
 
 # Bugs reporten
 
 #### Wo und wie melde ich Fehler?
 
-Du kannst Fehler auf unseren Discord im Channel "Vorschläge" melden. (Achte dort aber darauf das du den Tag "Bug" auswählst). Wir empfehlen bei Duplikationsbugs aber eher das du ein Teammitglied mit einer Direkt Message auf den Bug aufmerksam machst.
+Du kannst Fehler auf unseren Discord im Channel "Vorschläge" melden. (Achte dort aber darauf das du den #Tag "Bug" auswählst). Wir empfehlen bei Duplikationsbugs aber eher das du ein Teammitglied mit einer Direkt Message auf den Bug aufmerksam machst.
 
 #### Welche Fehler können gemeldet werden:
 
@@ -21,5 +21,5 @@ Du kannst Fehler auf unseren Discord im Channel "Vorschläge" melden. (Achte dor
 
 
 {% hint style="danger" %}
-Achtung! Das wiederholte ausnutzen von Fehlern ist nicht erwünscht und wird daher auch von uns bestraft. Das melden von Bugs hingegen kann dir Belohnungen einbringen.
+Achtung! Das wiederholte ausnutzen von Bugs ist verboten und wird daher auch von uns bestraft. Das melden von Bugs hingegen kann dir Belohnungen einbringen.
 {% endhint %}

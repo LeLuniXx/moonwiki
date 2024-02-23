@@ -1,7 +1,7 @@
 # 👾 Einleitung
 
 {% hint style="info" %}
-Unser Server befindet sich zurzeit in keiner öffentlichen Phase. Dieses Wiki dient alleine als Vorschau unseres Server und soll ein Anreiz für Mitspieler sein sich diesen Server bald anschauen zu dürfen. Wir sind dankbar für jeden Verbesserungs Vorschlag (Vorschläge können über unseren Discord eingereicht werden).   &#x20;
+Unser Server befindet sich zurzeit in keiner öffentlichen Phase. Dieses Wiki dient alleine als Vorschau unseres Server und soll ein Anreiz für Mitspieler schaffen sich diesen Server bald anschauen zu dürfen. Wir sind dankbar für jeden Verbesserungs Vorschlag (Vorschläge können über unseren Discord eingereicht werden).   &#x20;
 {% endhint %}
 
 Hallo, schön das du dir Zeit nimmst um dir unser Wiki anzuschauen. Seit gut 3 Jahren arbeite ich zusammen mit einen kleinen Team an diesen Projekt. Unsere Vision ist es ein Realm zu erstellen der dich und deine Freunde mit einzigartigen und Abenteuerreichen Mechaniken in den Ban zieht. Wir bemühen uns seid jeher ein Erkundungsreiches und liebevolles Abenteuer zu kreieren das durch immer größeren Updates stetig wächst und das dich lange beschäftigen kann.&#x20;
@@ -13,5 +13,3 @@ Dich erwarten liebevoll gestaltete Heimatdörfer denen du dich anschließen kann
 So das wars fürs erste. Wenn wir eure Interesse geweckt haben, schaut euch doch gern die nächsten Wiki Einträge an um alles über unser Projekt zu erfahren.
 
 Gruß von Leprimex (Founder of Moonrealms)
-
-[Broken link](broken-reference "mention")<mark style="background-color:purple;">(</mark><mark style="background-color:purple;">**Discord**</mark><mark style="background-color:purple;">)</mark>
