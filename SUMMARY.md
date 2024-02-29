@@ -10,6 +10,7 @@
 * [Möbel/Dekorationen](was-uns-aus-macht/moebel-dekorationen.md)
 * [Advancements/Quests](was-uns-aus-macht/advancements.md)
 * [Spielzeitmedaillen](was-uns-aus-macht/spielzeitmedaillen.md)
+* [Heimatwelten](was-uns-aus-macht/heimatwelten.md)
 * [Heimatdörfer/Luftreisen](was-uns-aus-macht/globale-wegpunkte-gebietsdoerfer.md)
 
 ## Weiteres
