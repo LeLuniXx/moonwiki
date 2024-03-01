@@ -1,6 +1,12 @@
-# Heimatdörfer/Luftreisen
+# Heimattempel
 
-&#x20;Nach dem du im Tutorial dein Heimatdorf gewählt hast kannst du dir ein&#x20;
+Der Heimattempel ist das Herzstück von Moon. Er ist der Dreh und Angelpunkt aller Erkundungsreichen Welten die noch vor dir liegen. Gleichzeitig &#x20;
+
+
+
+Hier finden sich die Weltenportale die du von Zeit zu Zeit freischalten kannst um neue Welten mit neuen Blöcken, Mobs, Pflanzen und Items zu entdecken.
+
+
 
 Um schneller durch die Welt reisen zu können hat jedes Heimatdorf eine Luftschiff Reisepunkt von den aus andere Heimatdörfer besucht werden können. Bevor du allerdings andere Heimatdörfer besuchen kannst musst du Materialien zur freischaltung eines Reiseweges sammeln und diese bei der Luftreisestation abgeben.
 
@@ -12,9 +18,3 @@ Um schneller durch die Welt reisen zu können hat jedes Heimatdorf eine Luftschi
 * Elytra Trimtrader (hat in jeden Dorf andere Trims zum traden) (unreleased)
 * Jedes Dorf hat eine andere Währung (unreleased)
 * Relictsmithing Trader (unterschiedliche Relict Items zum traden)
-
-&#x20;
-
-**Dürfen in Heimatdörfern Farmen gebaut werden?**
-
-Hierzu ist es Lohnenswert sich vorher die Regeln durchzulesen die wir für unseren Server festgelegt haben. Um es aber kurz zu fassen. <mark style="background-color:purple;">Das bauen von automatischen/halbauto. Redstone Farmen (ausgenommen sind: Eisenfarmen) ist auf Grundstücken direkt in Heimatdörfern nicht gewünscht</mark>.
