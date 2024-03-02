@@ -1,20 +1,24 @@
-# Heimattempel
+# Heimattempel/Luftschiffhafen
 
-Der Heimattempel ist das Herzstück von Moon. Er ist der Dreh und Angelpunkt aller Erkundungsreichen Welten die noch vor dir liegen. Gleichzeitig &#x20;
+Der Heimattempel ist das Herzstück von Moon -\ &#x20;
 
+Nach deinen kurzen Einstieg findest du hier nicht nur den Zugang zu deinen eigenen Realm sondern auch neue Möglichkeiten um unentdeckte Welten mit Freunden zu erforschen. Dabei spielt der Luftschiffhafen eine wichtige Zentrale Rolle. Unten werden dir einige Reiseziele erklärt die du von hier aus ansteuern kannst.
 
+## Heimatwelten
 
-Hier finden sich die Weltenportale die du von Zeit zu Zeit freischalten kannst um neue Welten mit neuen Blöcken, Mobs, Pflanzen und Items zu entdecken.
+Private / öffentliche begrenzte Orte die Spieler bebauen können. (Mehr dazu im Thread: Heimatwelten)
 
+## Luftschiffhafen
 
+Im Luftschiffhafen kannst du von Zeit zu Zeit wichtige Reiserouten durch Aufträge freischalten, wodurch du weitere Gebiete erkunden und looten kannst.&#x20;
 
-Um schneller durch die Welt reisen zu können hat jedes Heimatdorf eine Luftschiff Reisepunkt von den aus andere Heimatdörfer besucht werden können. Bevor du allerdings andere Heimatdörfer besuchen kannst musst du Materialien zur freischaltung eines Reiseweges sammeln und diese bei der Luftreisestation abgeben.
+## Trial Biome / Gebiete
 
-#### Unterschiede zwischen Heimatdörfern:
+Trial Biome sind neue Orte an denen neue Blöcke, Mobs, Strukturen und Pflanzen gefunden werden können.&#x20;
+
+## Shops / Trader
 
 * Dekoristen Npc mit unterschiedlichen Themenbasierten Möbel und Dekoration
-* Wandernder Dekorations Npc mit unterschiedlichen Dekorationsköpfen.
-* Themenbasiertes bauen ist vorrangig&#x20;
-* Elytra Trimtrader (hat in jeden Dorf andere Trims zum traden) (unreleased)
-* Jedes Dorf hat eine andere Währung (unreleased)
+* Elytra Trimtrader
 * Relictsmithing Trader (unterschiedliche Relict Items zum traden)
+

@@ -6,7 +6,7 @@
 ## 📦 Was uns aus macht
 
 * [Heimatwelten](was-uns-aus-macht/heimatwelten.md)
-* [Heimattempel](was-uns-aus-macht/globale-wegpunkte-gebietsdoerfer.md)
+* [Heimattempel/Luftschiffhafen](was-uns-aus-macht/globale-wegpunkte-gebietsdoerfer.md)
 * [Mechaniken](was-uns-aus-macht/mechaniken.md)
 * [Chunk Claiming](was-uns-aus-macht/chunk-claiming.md)
 * [Möbel/Dekorationen](was-uns-aus-macht/moebel-dekorationen.md)
