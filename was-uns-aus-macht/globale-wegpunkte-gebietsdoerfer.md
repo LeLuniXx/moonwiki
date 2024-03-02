@@ -16,9 +16,11 @@ Im Luftschiffhafen kannst du von Zeit zu Zeit wichtige Reiserouten durch Aufträ
 
 Trial Biome sind neue Orte an denen neue Blöcke, Mobs, Strukturen und Pflanzen gefunden werden können.&#x20;
 
-## Shops / Trader
+## Trading Dörfer
 
-* Dekoristen Npc mit unterschiedlichen Themenbasierten Möbel und Dekoration
-* Elytra Trimtrader
-* Relictsmithing Trader (unterschiedliche Relict Items zum traden)
+
+
+* Möbel und Dekorationsshop
+* Elytra Trimshop
+* Relictsmithing Trader | Relict Items Shop
 
