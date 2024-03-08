@@ -2,7 +2,7 @@
 
 Der Heimattempel ist das Herzstück von Moon -\ &#x20;
 
-Nach deinen kurzen Einstieg findest du hier nicht nur den Zugang zu deinen eigenen Realm sondern auch neue Möglichkeiten um unentdeckte Welten mit Freunden zu erforschen. Dabei spielt der Luftschiffhafen eine wichtige Zentrale Rolle. Unten werden dir einige Reiseziele erklärt die du von hier aus ansteuern kannst.
+Nach deinen kurzen Einstieg findest du hier nicht nur den Zugang zu deinen eigenen Realm sondern auch neue Möglichkeiten um unentdeckte Gebiete mit Freunden zu erforschen. Dabei spielt der Luftschiffhafen eine wichtige Zentrale Rolle. Unten werden dir einige Reiseziele erklärt die du von hier aus ansteuern kannst.
 
 ## Heimatwelten
 
